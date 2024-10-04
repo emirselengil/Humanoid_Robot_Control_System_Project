@@ -1,3 +1,7 @@
+
+//Author : Alperen EVCÝ
+//Contributors: Emir Selengil, Akýn Bektaþ
+
 #include "NaoRobotAPI.h"
 #include "Menu.h"
 #include "RobotControl.h"
